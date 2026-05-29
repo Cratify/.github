@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user/cratify/blob/main/assets/logo.png" width="180" alt="Cratify Logo">
+<img src="[https://github.com/cratify/blob/main/assets/logo.png](https://avatars.githubusercontent.com/u/288843699?s=400&u=10fd64cd07115a464a77c3e06e80e9bbf763cf6a&v=4)" width="180" alt="Cratify Logo">
 
 # Cratify
 
@@ -8,8 +8,8 @@
 
 **Craft. Run. Own.** Your personal AI studio — built with Rust & Tauri.
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/cratify?style=for-the-badge&color=0A66C2)
-![License](https://img.shields.io/github/license/yourusername/cratify?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/dionvanhecke/cratify?style=for-the-badge&color=0A66C2)
+![License](https://img.shields.io/github/license/dionvanhecke/cratify?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Works%20on-Windows%20%7C%20macOS%20%7C%20Linux-FF6B6B?style=for-the-badge)
 
 **No cloud. No tracking. No limits.**
@@ -33,7 +33,7 @@ Built from scratch with **Rust + Tauri** — tiny, blazing fast, and actually be
 
 ---
 
-## ✨ Features That Actually Matter
+## Features That Actually Matter
 
 | Feature | Description | Status |
 |--------|-------------|--------|
@@ -45,11 +45,3 @@ Built from scratch with **Rust + Tauri** — tiny, blazing fast, and actually be
 | **Privacy First** | Everything stays on your machine. Auditable. Open source. | ✅ |
 
 ---
-
-## Quick Start (30 seconds)
-
-```bash
-# Install (one command)
-curl -fsSL https://get.cratify.app | sh
-
-# Or download from Releases
